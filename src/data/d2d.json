@@ -72,7 +72,7 @@
             "id": "8d8d8b47-f240-4b64-9f8a-c0f72c737ced",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
             "type": "header",
-            "variant": "1",
+            "variant": "4",
             "position": 1,
             "is_active": true,
             "content": {
@@ -92,7 +92,7 @@
             "id": "d7592df9-ae00-40a2-bdc5-fdddf326e59a",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
             "type": "hero",
-            "variant": "2",
+            "variant": "3",
             "position": 2,
             "is_active": true,
             "content": {
@@ -108,11 +108,12 @@
             },
             "items": []
           },
-          {
+
+           {
             "id": "a088a10c-5616-42c0-a90a-c5b19544c757",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
             "type": "services",
-            "variant": "1",
+            "variant": "2",
             "position": 3,
             "is_active": true,
             "content": {
@@ -171,10 +172,56 @@
               }
             ]
           },
-          {
-            "id": "53760ad3-06dc-43f9-ad66-c42937f90aeb",
+            
+           {
+            "id": "d7592df9-ae00-40a2-bdc5-fdddf326e59ab",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
-            "type": "about",
+            "type": "gallery",
+            "variant": "3",
+            "position": 2,
+            "is_active": true,
+            "content": {
+              "id": "a6aa9cff-ca3a-47f2-934d-7a0e4fc0fcf3",
+              "section_id": "d7592df9-ae00-40a2-bdc5-fdddf326e59a",
+              "title": "Build Beautiful barber shop",
+              "subtitle": "Modern Web Development",
+              "description": "Our modular website builder allows you to create stunning websites with ease. No coding required.",
+              "image_url": "https://i.ibb.co/2LcZ3BQ/logo.webp",
+              "background_url": null,
+              "cta_text": "Get Started",
+              "cta_link": "/contact"
+            },
+            "items": []
+          },
+         
+
+           {
+            "id": "d7592df9-ae00-40a2-bdc5-fdddf326e59abc",
+            "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
+            "type": "pricing",
+            "variant": "3",
+            "position": 2,
+            "is_active": true,
+            "content": {
+              "id": "a6aa9cff-ca3a-47f2-934d-7a0e4fc0fcf3",
+              "section_id": "d7592df9-ae00-40a2-bdc5-fdddf326e59a",
+              "title": "Build Beautiful barber shop",
+              "subtitle": "Modern Web Development",
+              "description": "Our modular website builder allows you to create stunning websites with ease. No coding required.",
+              "image_url": "https://i.ibb.co/2LcZ3BQ/logo.webp",
+              "background_url": null,
+              "cta_text": "Get Started",
+              "cta_link": "/contact"
+            },
+            "items": []
+          },
+
+         
+
+                     {
+            "id": "53760ad3-06dc-43f9-ad66-c42937f90aebc",
+            "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
+            "type": "appointment",
             "variant": "1",
             "position": 3,
             "is_active": true,
@@ -191,11 +238,35 @@
             },
             "items": []
           },
+
+
+          {
+            "id": "53760ad3-06dc-43f9-ad66-c42937f90aeb",
+            "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
+            "type": "about",
+            "variant": "2",
+            "position": 3,
+            "is_active": true,
+            "content": {
+              "id": "c401e429-d283-45bb-948d-4b4485b97e6c",
+              "section_id": "53760ad3-06dc-43f9-ad66-c42937f90aeb",
+              "title": "New Section",
+              "subtitle": "Subtitle",
+              "description": "Description for the new section",
+              "image_url": null,
+              "background_url": null,
+              "cta_text": null,
+              "cta_link": null
+            },
+            "items": []
+          },
+
+
           {
             "id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
             "type": "testimonial",
-            "variant": "1",
+            "variant": "2",
             "position": 4,
             "is_active": true,
             "content": {
@@ -210,6 +281,8 @@
               "cta_link": null
             },
             "items": [
+
+              
               {
                 "id": "574ffd62-8291-4c24-9996-0022ae00bb93",
                 "section_id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
@@ -254,11 +327,79 @@
               }
             ]
           },
+
+          
+          {
+            "id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eedw",
+            "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
+            "type": "testimonial",
+            "variant": "3",
+            "position": 4,
+            "is_active": true,
+            "content": {
+              "id": "48813f16-3aea-471a-8df6-b3f999c5617d",
+              "section_id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
+              "title": "Customer Testimonials",
+              "subtitle": "What Our Clients Say",
+              "description": "Hear from our satisfied customers about their experience working with us.",
+              "image_url": null,
+              "background_url": null,
+              "cta_text": null,
+              "cta_link": null
+            },
+            "items": [
+
+              
+              {
+                "id": "574ffd62-8291-4c24-9996-0022ae00bb93",
+                "section_id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
+                "title": "John Smith",
+                "subtitle": "CEO, TechStart",
+                "description": "Working with this team has been an incredible experience. Their attention to detail and commitment to excellence is unmatched.",
+                "icon": null,
+                "image_url": "https://via.placeholder.com/100x100",
+                "rating": 5,
+                "price": null,
+                "duration": null,
+                "tag": null,
+                "position": 0
+              },
+              {
+                "id": "8f60eb15-48cb-4332-9eb8-069c06116102",
+                "section_id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
+                "title": "Sarah Johnson",
+                "subtitle": "Marketing Director",
+                "description": "I was amazed at how quickly they understood our brand and delivered exactly what we needed. Highly recommended!",
+                "icon": null,
+                "image_url": "https://via.placeholder.com/100x100",
+                "rating": 5,
+                "price": null,
+                "duration": null,
+                "tag": null,
+                "position": 1
+              },
+              {
+                "id": "350c0ae3-a23d-4f07-988d-cc5d384732f7",
+                "section_id": "8453573e-d3e7-4e95-8057-9a3d7b8a5eed",
+                "title": "Michael Brown",
+                "subtitle": "Small Business Owner",
+                "description": "Their work helped transform my business. Professional, responsive, and truly talented team.",
+                "icon": null,
+                "image_url": "https://via.placeholder.com/100x100",
+                "rating": 4,
+                "price": null,
+                "duration": null,
+                "tag": null,
+                "position": 2
+              }
+            ]
+          },
+
           {
             "id": "0a07df4f-b9fb-45f5-843a-f5ae513d0e61",
             "page_id": "a6452a55-af24-40db-9490-42852c3e7b9a",
             "type": "footer",
-            "variant": "1",
+            "variant": "3",
             "position": 6,
             "is_active": true,
             "content": {
